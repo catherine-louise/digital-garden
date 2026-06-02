@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "catherine-louise.github.io/digital-garden"
+  baseUrl: "# Check current remotes"
   ignorePatterns:
     - private
     - templates
