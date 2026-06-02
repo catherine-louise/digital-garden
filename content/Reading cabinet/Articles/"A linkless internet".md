@@ -1,0 +1,5 @@
+Collin Jennings, “A linkless Internet,” _Aeon,_ December 6, 2024.  [https://aeon.co/essays/when-ai-summaries-replace-hyperlinks-thought-itself-is-flattened](https://aeon.co/essays/when-ai-summaries-replace-hyperlinks-thought-itself-is-flattened) 
+
+The digital equivalent of the citation is the hyperlink. (With research articles often published online instead of in print, citations these days are literally hyperlinked.) Hyperlinks, writes literary scholar Collin Jennings, show “how human minds tend to move from idea to idea, connecting external stimuli and internal reflections.” The querent bounces from one hyperlink to another, tracing ideas back to their sources, understanding what is in conversation with what. Five contemporary articles all linking back to one source dated to 2010? Clearly the 2010 source was pivotal in how people thought about an idea. And that source was founded on another source, which borrowed insights from this field, which led to this other field, and so on. Links, connections, and citations expand outward in all directions.
+
+#AI 
