@@ -11,7 +11,7 @@ URL: https://www.nybooks.com/articles/2025/03/27/the-labor-theory-of-ai-the-eye-
 
 The interesting takeaway from Pasquinelli-via-Tarnoff is, for me, the fact that arch-neoliberal Friederich Hayek was interested in "connectionism," a branch of neuroscience that later gave rise to neural networks—aka, the technology that underpins machine learning and generative AI today. Hayek saw parallels between the brain and the market, two complex, unknowable, ungovernable entities that nevertheless manage to create order, even if we can't see how.
   
-Generative AI is this but on steroids. We don't know how an LLM produces a given set of results, just that it does so. See [[“Hallucinations, Errors, and Dreams”]]. Hayek, Tarnoff notes, would have been pleased:
+Generative AI is this but on steroids. We don't know how an LLM produces a given set of results, just that it does so. See [[Hallucinations, Errors, and Dreams]]. Hayek, Tarnoff notes, would have been pleased:
 
 > The old Austrian would be gratified to know that the “intellect” of the most sophisticated software in history is sourced from the unplanned activities of a multitude. He would have been further tickled by the fact that such software is, like his beloved market, fundamentally unknowable.
 
