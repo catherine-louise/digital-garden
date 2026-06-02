@@ -10,7 +10,9 @@ When I read a "transcript" of an "interview" with a "synthetic participant," and
 
 The model deploys words that in a traditional interview, I would probe on further. What do you mean by *optimize*? By *best*? By *meets my needs*? But even though I can keep prompting the AI, my prompting is there to generate more text from which I can neatly extract the information the business is looking for. My prompting does not generate or lead to deeper cognitive empathy or understanding of another person's worldview or expertise. I am striking vacuum.
 
-As of this writing I haven't actually interviewed a synthetic participant. I am skeptical of doing so. The exercise both reveals the extractive nature of corporate research (*or perhaps all research...?*) and the profound limitations of an applied research practice where extracting more information quickly is the highest good. The extraction, as in Ringworld, actually already happened, in the form of creating and training the model—but the model has "no raw resources in its ground." All of that was used up to train the model. Extracting information from a "synthetic participant," is actually trying to mine the metal Ring. 
+As of this writing I haven't actually interviewed a synthetic participant. I've seen part of a demo, read the outputs, am trying to imagine how I would actually treat them once my company signs on to the technology and says yes, do research this way, it will be faster, it's "directionally correct," it will allow us to get answers sooner, faster, quicker. 
+
+I think the use of "synthetic personas" both reveals the extractive nature of corporate research (*or perhaps all research...?*) and the profound limitations of an applied research practice where extracting more information quickly is the highest good. The extraction, as in Ringworld, actually already happened, in the form of creating and training the model—but the model has "no raw resources in its ground." All of that was used up to train the model. Extracting information from a "synthetic participant," is actually trying to mine the metal Ring. 
 
 
 
