@@ -1,3 +1,7 @@
+---
+Author: Joe Mungo Reed
+---
+
 What a book! It made me cry!
 Reminds me of the conclusion of [[Atlas of AI]] insofar as... the space colonizers and the AI boosters are fundamentally "hedging against Earth." It shows, so clearly, that terraforming Mars and other space colonization initiatives are:
 1) turning away from the messy work of fixing the world we actually have, to create a new one

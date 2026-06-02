@@ -1,9 +1,9 @@
 ---
-tags:
-  - empire-resource-extraction
 Author: Daniel Immerwahr
 Type:
   - Book
+tags:
+  - empire-resource-extraction
 ---
 A stunning book: erudite yet accessible. Immerwahr's central move is to change the perspective(s) through which we consider US imperialism. Specifically, he argues that overseas territories and land masses matter. In the early 19th century, American westward expansion (and the displacement of Native Americans) emerged from a booming white settler population's need for more land. Once all that land was settled, policymakers started grabbing and annexing overseas territories, much in the manner of British and French empires — e.g. seizing the Spanish-controlled Philippines at the end of the Spanish-American War (to the great dismay of Filipinos, who thought the US was going to liberate them). But after World War II, Immerwahr shows, when the US had the possibility to annex and keep even more territory than ever, they didn't. Instead, the US gave up territories and instead swapped out an empire of territories for an empire of bases, specks, leased land, and other small places on the map whose legal status is ambivalent and where the US Constitution does not equally apply.
 

@@ -1,10 +1,11 @@
 ---
-tags:
-  - publishing-and-the-Internet
 Author: Sarah Brouillette
 Type:
   - Essay
+Publication Date: 07/2022
 URL: https://post45.org/2022/07/wattpads-fictions-of-care/
+tags:
+  - publishing-and-the-Internet
 ---
 Introduces concept of the “bibliotheraputic” and highlights two “tendencies” at work in Wattpad fiction:
 

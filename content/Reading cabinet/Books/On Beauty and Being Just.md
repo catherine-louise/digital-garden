@@ -1,9 +1,9 @@
 ---
-tags:
-  - philosophies-of-life
 Author: Elaine Scarry
 Type:
   - Book
+tags:
+  - philosophies-of-life
 ---
 **Reading notes: On Beauty and Being Just (part 1)**
 

@@ -1,6 +1,7 @@
 ---
 Author: Zoe Hu
 URL: https://www.nybooks.com/online/2025/06/08/break-the-aspiration-meter-the-sims/
+Publication Date: 06/08/2025
 tags:
   - "#game-design"
 ---

@@ -1,5 +1,7 @@
 ---
+Author: Ben Goldfarb
+Type:
+  - Book
 tags:
   - environment
-Author: Ben Goldfarb
 ---

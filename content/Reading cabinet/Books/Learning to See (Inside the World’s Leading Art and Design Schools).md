@@ -1,9 +1,9 @@
 ---
-tags:
-  - creative-process
 Author: Keith Sawyer
 Type:
   - Book
+tags:
+  - creative-process
 ---
 Analysis of the creative process that working and teaching artists (art professors at top art schools) teach their students and use in their own process - that is successful at generating art.
 
