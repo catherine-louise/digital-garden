@@ -2,7 +2,7 @@ https://www.youtube.com/watch?time_continue=1712&v=k1ldPKCcHTM&embeds_widget_ref
 
 David Benqué uses divination studies and divination practice as a lens to look at AI. Not satisfied with just saying AI is "pseudo-rationality" because there is no rationality anywhere 
 
-Divination studies - cites [[Divination & the neoliberal|Politics of Divination - Neoliberal Endgame]]
+Divination studies - cites [[Divination|Politics of Divination - Neoliberal Endgame]]
 - "procedures by which human beings attempt to access knowledge of the unknown." (Ramey's definition)
 - Via Ramey - markets pretend to do this, but they "subvert" it because they don't really engage with the chance that is at the heart of divination (?)
 
