@@ -16,20 +16,20 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Lora
+      body: Lora
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F5EFE6"
+        lightgray: "#E8DDD0"
+        gray: "#A89880"
+        darkgray: "#3B2A1A"
+        dark: "#2A1E10"
+        secondary: "#4F6EA8"
+        tertiary: "#B97A8A"
+        highlight: "rgba(79, 110, 168, 0.1)"
+        textHighlight: "#B97A8A44"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -156,7 +156,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
