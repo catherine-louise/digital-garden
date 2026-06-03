@@ -35,13 +35,13 @@ Hu’s main critique of the Sims is that it is not a narrative game, that it pre
 
  This is fundamentally, I think, the literary critic’s misreading the game as text instead of accounting for what Tom Bissell ([[Extra Lives - Why Video Games Matter]]) calls “the destabilizing influence of the player.” It is _the player_ who draws the connections, who creates the narrative — this is the point of the game. She faults the game for not providing narrative, but doesn’t realize that she herself was supposed to provide the narrative. In the absence of narrative, the Sims, **like real life**, is chaotic and confusing. 
 
-The author does not egage with:
+The author does not engage with:
 
 1) People who play the sims today - there are plenty. It has this kind of arch, “I’m better now than I was then; I know this is not real” pretentious literary bent about it. It substitutes the author’s experience of playing _The Sims_ as the reading of what the game is and what it does.
 
 2) There isn’t really attention to the way that this medium is produced; it’s being read as pure text and not looked at from a design lens.
 
-It seems odd today to hold onto this false binary of the sims and real life as opposites when more and more and more, the simulation and the real are brought together and entangled. The sims parts of real life they are meant to mimic and creates them as **features**, which are reproducible and algorithmic systems. I think I would start my investigation with [[To understand today's software-mediated world, consider "the feature" as a unit of analysis|the feature]]. 
+It seems odd today to hold onto this false binary of the sims and real life as opposites when more and more and more, the simulation and the real are brought together and entangled. The sims parts of real life they are meant to mimic and creates them as **features**, which are reproducible and algorithmic systems. I think I would start my investigation with [["The feature" as a unit of analysis|the feature]]. 
 
 1) Creating a way for players to tell stories that necessarily requires that those elements of life are broken into features on a product roadmap with technical constraints - e.g., the reason why the apartment living pack has a landlord feature, because we need to represent a part of life that can be seen through the lens of _a product_ or _a feature._ The lens of features! And the lenses of features are the lenses of acquisition, success, and measurement.
 
