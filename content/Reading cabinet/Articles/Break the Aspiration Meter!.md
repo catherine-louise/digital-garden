@@ -1,10 +1,6 @@
----
-Author: Zoe Hu
-URL: https://www.nybooks.com/online/2025/06/08/break-the-aspiration-meter-the-sims/
-Publication Date: 06/08/2025
-tags:
-  - "#game-design"
----
+[Zoe Hu, in NYRB 6/8/2025](https://www.nybooks.com/online/2025/06/08/break-the-aspiration-meter-the-sims/)
+
+
 > *The Sims is another of those doctrinaire forms, something children play until they know what life is.* 
 
 Doctrinaire is interesting. Doctrine suggests belief, but how does belief mean it is only for children? If it is extremely doctrinaire, then it is meant to be a staging ground for life - then it is actually life itself, no? something that is doctrinaire is meant to indoctrinate into life, not apart from it, as this line suggests. 
@@ -45,4 +41,4 @@ It seems odd today to hold onto this false binary of the sims and real life as o
 
 1) Creating a way for players to tell stories that necessarily requires that those elements of life are broken into features on a product roadmap with technical constraints - e.g., the reason why the apartment living pack has a landlord feature, because we need to represent a part of life that can be seen through the lens of _a product_ or _a feature._ The lens of features! And the lenses of features are the lenses of acquisition, success, and measurement.
 
-#games #family
+#game-design 

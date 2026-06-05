@@ -1,9 +1,2 @@
----
-Author: Colin Fraser
-Type:
-  - Essay
-URL: https://medium.com/@colin.fraser/hallucinations-errors-and-dreams-c281a66f3c35
-tags:
-  - AI
----
+Colin Fraser, about what happens when an AI actually hallucinates: https://medium.com/@colin.fraser/hallucinations-errors-and-dreams-c281a66f3c35 
 #AI 

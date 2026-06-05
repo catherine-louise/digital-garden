@@ -1,13 +1,7 @@
----
-Author: Sarah Brouillette
-Type:
-  - Essay
-Publication Date: 07/2022
-URL: https://post45.org/2022/07/wattpads-fictions-of-care/
-tags:
-  - publishing-and-the-Internet
----
-Introduces concept of the “bibliotheraputic” and highlights two “tendencies” at work in Wattpad fiction:
+[Sarah Brouillete, Post45, 07/2022](https://post45.org/2022/07/wattpads-fictions-of-care/)
+
+
+Introduces** concept of the “bibliotheraputic” and highlights two “tendencies” at work in Wattpad fiction:
 
 > “The first tendency treats **fiction as a conduit to the therapeutic mirroring process of having one's own experiences seen and acknowledged via reflection in narrative**; the second, relatedly, envisions **writing as the creation of an inclusive caring community that celebrates deviation from normative identities and values**. While Wattpad supports and benefits from this idealization of cultural representation as, in part, a healing experience of being included, it is important that t**his expansion of possibilities for cultural representation occurs within broader conditions of scarcity — conditions that are shaping how writers conceive their work and what needs people bring to their reading experiences.”**
 

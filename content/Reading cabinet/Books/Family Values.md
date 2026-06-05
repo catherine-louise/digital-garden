@@ -1,8 +1,3 @@
----
-Author: James Chappell, Melinda Cooper
-Type:
-  - Review
-URL: https://www.dissentmagazine.org/article/family-values-melinda-cooper-review/
-tags:
----
-“While sometimes leaving us to our own devices, neoliberalism more frequently rivets us into networks of kinship bound together by shared responsibilities for debt, illness, and care. This is obvious in our daily lives: think of the loans co-signed (or not), the college bills paid for (or not), the agonizing decisions over nursing homes. The real and imagined connection between family values and economic mobility allows for a kindred link between social inequality and family pathology.”
+[James Chappell, reviewing Melinda Cooper's book Family Values for *Dissent*:](https://dissentmagazine.org/article/family-values-melinda-cooper-review/) 
+
+> “While sometimes leaving us to our own devices, neoliberalism more frequently rivets us into networks of kinship bound together by shared responsibilities for debt, illness, and care. This is obvious in our daily lives: think of the loans co-signed (or not), the college bills paid for (or not), the agonizing decisions over nursing homes. The real and imagined connection between family values and economic mobility allows for a kindred link between social inequality and family pathology.”

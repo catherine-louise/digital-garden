@@ -1,10 +1,5 @@
----
-Author: Keith Sawyer
-Type:
-  - Book
-tags:
-  - creative-process
----
+Keith Sawyer, *Learning to See: Inside the World's Leading Art and Design Schools* (MIT Press, 2025)
+
 Analysis of the creative process that working and teaching artists (art professors at top art schools) teach their students and use in their own process - that is successful at generating art.
 
 5 principles of the creative process:
@@ -28,3 +23,5 @@ Key to this is…
 Seeing the work as having its own energy, needs, and propulsion - separate from the student
 
 Individual elements of the work are acting (”I think this part here is asking for…”) in concert with one another — “creative animation shows the student that her work is a collection of agentive elements which can interact with each other independent from her.”
+
+#creative-process 

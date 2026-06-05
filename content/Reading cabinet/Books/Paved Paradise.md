@@ -5,6 +5,8 @@ Type:
 tags:
   - environment
 ---
+Henry Grabar, *Paved Paradise: How Parking Explains the World* (Penguin, 2024)
+
 Key takeaways:
 
 - Urban planners in the mid 20th century misguidedly thought that the solution to the problem of declining downtowns was that the downtowns didn’t have enough parking, so they hollowed out the downtown core to provide parking. But actually this hastened the decline further and robbed downtowns of the density that parking prevents
@@ -21,3 +23,4 @@ Key takeaways:
 
 **My takeaway: the ubiquity of parking is a sign of vast imaginative impoverishment that we can’t think of anything else to do with our space than use it to store cars**
 
+#environment 
