@@ -1,0 +1,1 @@
+Kate Beaton, Drawn & Quarterly, 2022.
