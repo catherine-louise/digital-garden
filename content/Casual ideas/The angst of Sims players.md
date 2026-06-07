@@ -10,7 +10,7 @@ This idea might just be borne from me observing people in the Sims community get
 
 It's possible that the game architecture/software just isn't robust enough to support what players desire. And my casual observation of Reddit threads, Sims content creators, and Twitch livestream chats is skewing my perspective towards the very vocal, the very committed, the very invested. The game still makes money! 
 
-But I am thinking about [["The feature" as a unit of analysis|*the feature as unit of analysis*]] is because:
+But I am thinking about [["The feature" is a unit of analysis worth considering|*the feature as unit of analysis*]] is because:
 - modern corporate software is built on features, and the Sims 4 is no different: it is built feature by feature
 - features come with particular forms, genres, logics, etc., built in. 
 - features—their deployment, their updates, their roadmap—are how players understand and assume EA cares, or does not care, about the game

@@ -37,7 +37,7 @@ The author does not engage with:
 
 2) There isn’t really attention to the way that this medium is produced; it’s being read as pure text and not looked at from a design lens.
 
-It seems odd today to hold onto this false binary of the sims and real life as opposites when more and more and more, the simulation and the real are brought together and entangled. The sims parts of real life they are meant to mimic and creates them as **features**, which are reproducible and algorithmic systems. I think I would start my investigation with [["The feature" as a unit of analysis|the feature]]. 
+It seems odd today to hold onto this false binary of the sims and real life as opposites when more and more and more, the simulation and the real are brought together and entangled. The sims parts of real life they are meant to mimic and creates them as **features**, which are reproducible and algorithmic systems. I think I would start my investigation with [["The feature" is a unit of analysis worth considering|the feature]]. 
 
 1) Creating a way for players to tell stories that necessarily requires that those elements of life are broken into features on a product roadmap with technical constraints - e.g., the reason why the apartment living pack has a landlord feature, because we need to represent a part of life that can be seen through the lens of _a product_ or _a feature._ The lens of features! And the lenses of features are the lenses of acquisition, success, and measurement.
 
