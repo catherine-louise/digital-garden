@@ -1,1 +1,0 @@
-the people who say it are trying to sell you on the idea that their future is the only one on the table. 

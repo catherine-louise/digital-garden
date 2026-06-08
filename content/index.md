@@ -2,5 +2,4 @@
 title: welcome
 ---
 
-This is Catherine's digital garden. Hello!
-
+Hello and welcome to my digital garden.
