@@ -20,11 +20,11 @@ It's a response to theories of capitalism that rely (in Wark's telling) on an in
 
 Consequently, these readings (Wark does not specify who is making them) lead to a dogmatic assumption that "everything can or will be disrupted except capitalism itself." This benefits capitalism's flagbearers as much as its detractors! 
 
-Wark's intervention is to say that actually, capitalism can be, and is at present, disrupted by a new ruling class that is neither "capital" nor "labor." This ruling class derives its power from controlling and gating **information**. It is in conflict with the existing ruling classes in her reading, landlords and capitalists.
+Wark's intervention is to say that actually, capitalism can be, and is at present, disrupted by a new ruling class that is neither "capital" nor "labor." This new ruling class derives its power from controlling and gating **information**. It is in conflict with two other ruling classes: landlords and the capitalists.
 
 ## Landlords and capitalists
 
-Citing the work of economist David Ricardo, Wark notes that there are two types of ruling classes: the landlords, and the capitalists (or what I would say as the industrialists). 
+Citing the work of economist David Ricardo, Wark notes that there are two types of ruling classes: the landlords, and the capitalists (I mentally bracketed them as *the industrialists* to make the distinction stickier in my mind). 
 
 | The landlord                                                                                                                                                   | The capitalist industrialist                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,15 +49,15 @@ The metaphor behind the 'vectoralist' class is a little tortured and ultimately 
 
 >information becomes separated from its material strata, and can be effectively channeled anywhere on the planet, stored at negligible cost, processed easily into complex patterns. \[page 05]
 
-But anyways. The vectoralist makes money by producing information and then employing new intellectual property regimes to ensure that information (which should be free-flowing) belongs to only them. The vectoralist does not produce things but produces information *about* things — GIS maps, patented processes, logistics data, consumer data, driving data, that direct how everything else should unfold. The vectoralist relies on intellectual property to keep this information within its moat. It relies on having information no one else does.
+But anyways. The vectoralist makes money by producing information and then employing new intellectual property regimes to ensure that information (which should be free-flowing) belongs to only them. The vectoralist does not produce things but produces information *about* things — GIS maps, patented processes, logistics data, consumer data, driving data — that directs how everything else unfold. The vectoralist relies on intellectual property regimes to keep this information within its moat. It relies on having information no one else does.
 
 For example: GM wants Apple CarPlay out of its cars because they want to produce and control information about what people do with the infotainment system. 
 
-Another (possible) example: Uber's value is not from the service it provides but the data hoovered up as part of providing that service
+Another (possible) example: Uber's value is not from the service it provides but the data hoovered up as part of providing that service.
 
 Another example: OpenAI and Anthropic have, in an LLM, the ultimate "separation of information from its material strata." The masses of training data are proprietary (I think), the precise weighting of the model is proprietary, the RLHF processes are proprietary. Of course, it also needs the landlords' cooperation — land for data centers is scarce. 
 
-She also says they make their money not on profit, but *interest,* which "means not just the return on the investment of information in the form of money but any surplus information, acquired through unequal exchanges of information" \[page 05]. So this tells me that she's not making an argument about the sale of data, but rather that the companies are highly *valued* in the market based on the strength and scope of the data they have collected and hoard.
+She also says they make their money not on profit, but *interest,* which "means not just the return on the investment of information in the form of money but any surplus information, acquired through unequal exchanges of information" \[page 05]. So this tells me that she's not making an argument about the sale of data, but rather that the companies are highly *valued* in the market based on the strength and scope of the data they have collected and hoarded.
 ## Hackers: the labor class
 
 Capital has labor and landlords have peasants - vectoralists have hackers, who actually produce the information. I thought this section was a little more abstract, BUT it's interesting how she calls out 4 ways that vectoralists subordinate hackers:

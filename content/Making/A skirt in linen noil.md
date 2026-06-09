@@ -3,3 +3,5 @@ This skirt was a lesson in patience, meaning, how not having patience led me to 
 Pattern from [Helen's Closet](https://helensclosetpatterns.com/products/donovan-skirt) with modded pockets. 
 
 Fabric from [Marengo Sewing Studio in Ann Arbor](https://www.marengosew.com/), a new shop that opened here that I have instantly fallen in love with. 
+
+#sewing
