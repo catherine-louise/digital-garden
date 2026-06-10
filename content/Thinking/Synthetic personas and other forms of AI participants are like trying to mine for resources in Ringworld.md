@@ -16,4 +16,4 @@ I think the use of "synthetic personas" both reveals the extractive nature of co
 
 * *Comment from a reader: technically, and unlike the example of Ringworld I cite, the extracted resources (art, writing, literature, etc) still exist. But what happens when models collapse and the institutions that led to the production of writing, literature, and art are hollowed out... 
 
-#AI #game-design 
+#AI #research-practice

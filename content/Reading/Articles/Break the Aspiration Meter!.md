@@ -41,4 +41,4 @@ It seems odd today to hold onto this false binary of the sims and real life as o
 
 1) Creating a way for players to tell stories that necessarily requires that those elements of life are broken into features on a product roadmap with technical constraints - e.g., the reason why the apartment living pack has a landlord feature, because we need to represent a part of life that can be seen through the lens of _a product_ or _a feature._ The lens of features! And the lenses of features are the lenses of acquisition, success, and measurement.
 
-#game-design 
+#design 

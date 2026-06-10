@@ -11,3 +11,5 @@ Features are developed, identified, or ideated; shaped into briefs; iterated in 
 well, what, exactly? I need to define this part better. Digital experiences are made up *of* features but that's not exactly what the feature is there to analyze; it's something about how *the feature* shapes what gets brought to market, what ends up being offered as products and services. The *feature* is the mediating layer - the features, their paucity or perceived deficiency, is part of what I notice in [[The angst of Sims players and the rise of the feature|the angst of Sims players]]. 
 
 I think reading [[I'm Sorry You Feel That Way]] by Diane Negra will help with this part.
+
+#design 
