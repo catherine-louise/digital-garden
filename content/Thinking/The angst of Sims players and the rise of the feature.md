@@ -17,3 +17,5 @@ But I am thinking about [[The feature as unit of analysis|*the feature as unit o
 	- players themselves would say "bugs," eg, "broken game" - but for bugs to get fixed, that's often fixing a feature or it's prioritized in the manner of a feature that has to be written in a precise way in order to get it into a development team's queue
 
 I suppose my last thought right now is that analyses of games, or software, that just focus on the text of the thing, (e.g., [[Break the Aspiration Meter!]]) not only miss the interactivity that shapes how a game actually unfolds (the player's role), but also ignore the material conditions in which these gameplay loops are produced.
+
+#corporate 

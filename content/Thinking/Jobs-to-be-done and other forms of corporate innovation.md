@@ -1,0 +1,19 @@
+Lately at my job my team has been exploring a product innovation framework called [jobs-to-be-done](https://online.hbs.edu/blog/post/jobs-to-be-done-examples) and I have been turning over its benefits and limitations. 
+
+## Some initial thoughts
+
+In jobs-to-be-done, the consumer is an agent in a free market, who "hires" a product or service to get a "job" done. 
+
+For example, someone "hires" an oven so that they can celebrate their child's birthday with baked treats (job) so that they feel they are a good parent (aspiration). In this framing the consumer's choices are entirely unconstrained—the customer has many options for this "job," such as using an oven to bake a cake, buying a cake from a store, buying Little Debbies from a store, getting a friend to bake a cake, etc., and they will only choose the oven if they feel that it will get that "job" done more successfully than other solutions on offer. So, if you want to compete, figure out what part of the "job" is hardest to do for the customer, or which new jobs are coming online that there aren't yet many solutions for, and go do it. 
+
+OK, makes sense. Corporate America is a deeply solipsistic place. Even if individuals within corporations know what customers are trying to accomplish, most conversations circle around "our product" and "how do we get people to use our product?" Jobs-to-be-done provides a common, acceptable, non-threatening language to insert customers and their needs into that conversation. It is extremely detailed and precise about *how* someone should formulate a customer need so as to avoid accidental "solutioning"—the customer's "need" is not "buy the product," or in this case, "use the oven."
+
+Back to the oven, though. The oven gets the job done as well as buying the cake from a store but why choose the oven? 
+
+Because, frankly, the work involved in using an oven to baking a cake from scratch better fulfills the American cultural mandate of feminine, maternal devotion. (Weren't you, as I was, picturing the "job performer" as a mother?) The obvious example is Betty Crocker cake mixes—originally designed to not even require cracking an egg, until they realized that cracking the egg made the baker feel more involved in the process. You could also connect the dots to moms avoiding single-use plastic and scrutinizing ingredient lists for ultra-processed foods—the oven as a way to control what their kids eat. Or [mothers trying to hold it together as much as possible](https://www.penguinrandomhouse.com/books/697130/holding-it-together-by-jessica-calarco/) in the absence of social safety nets... these are all just ideas I've come up within the last twenty minutes, but you get the idea. 
+
+Jobs-to-be-done, at least as practiced in the corporations I've been part of, will take that long, tangled history and and boil it down to "Feel like a good parent," without ever questioning what *good* is here, or if we should be perpetuating that idea of *good.* Or "Avoid feeding my child ultra-processed foods," assuming that we all *know* what an ultra-processed food is, and that the desire to avoid such foods is culturally inert, fungible with any other desire, like "Minimize costs of buying prepared birthday treats," until you ask 500 parents to stack rank such desires in a survey. 
+
+I understand corporations respond mostly to the world as it is, and very few have a vision about what the world could be; but what makes me queasy is how, in corporate, there seems to be no good way to articulate what *it* is—to articulate what actual, lived realities are behind statements like "Avoid feeding my child ultra-processed foods." Without that language, we instead are left with unacknowledged and uninterrogated assumptions that reproduce bias and perpetuate "the world as it is."
+
+#corporate

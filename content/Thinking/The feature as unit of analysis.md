@@ -12,4 +12,4 @@ well, what, exactly? I need to define this part better. Digital experiences are 
 
 I think reading [[I'm Sorry You Feel That Way]] by Diane Negra will help with this part.
 
-#design 
+#design #corporate 
