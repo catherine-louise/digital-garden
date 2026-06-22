@@ -80,8 +80,8 @@ Invoking "late stage capitalism" as the current regime that is always the same a
 
 This is getting at a slightly different idea. Inevitability is a claim about how change (on someone else's terms) must happen and we have to accept it. Whenever something is described as *unchanging*, that is also a claim—about how change is **no**t possible and the status quo is all that we can ask for. It is also a way of foreclosing the future.
 
-Unrelated: I'm also intrigued by her first paragraph—that "disruption" is a "nihilistic" inversion of the old Marx phrase that capitalism sweeps away old social forms. Want to think about what work is happening when we say something will be "disrupted." You can't shake a stick in corporate without something being on the edge of massive "disruption."
+Unrelated: I'm also intrigued by her first paragraph—that "disruption" is a "nihilistic" inversion of the old Marx phrase that capitalism sweeps away old social forms. Want to think about [[What work is happening when we say something will be "disrupted"|what work the word "disruption" is doing]], because you can't shake a stick in corporate without something being on the edge of massive "disruption."
 
 
 
-#AI #empire-resource-extraction 
+#AI #empire-resource-extraction #technology 

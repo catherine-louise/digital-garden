@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "catherine-louise.github.io/digital-garden"
+  baseUrl: catherine-louise.github.io/digital-garden
   ignorePatterns:
     - private
     - templates
@@ -28,8 +28,8 @@ configuration:
         dark: "#2C1810"
         secondary: "#3D5A3E"
         tertiary: "#B5736A"
-        highlight: "rgba(61, 90, 62, 0.1)"
-        textHighlight: "rgba(61, 90, 62, 0.15)"
+        highlight: rgba(61, 90, 62, 0.1)
+        textHighlight: rgba(61, 90, 62, 0.15)
       darkMode:
         light: "#161618"
         lightgray: "#393639"

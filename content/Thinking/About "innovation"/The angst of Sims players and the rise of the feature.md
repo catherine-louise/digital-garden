@@ -18,4 +18,4 @@ But I am thinking about [[The feature as unit of analysis|*the feature as unit o
 
 I suppose my last thought right now is that analyses of games, or software, that just focus on the text of the thing, (e.g., [[Break the Aspiration Meter!]]) not only miss the interactivity that shapes how a game actually unfolds (the player's role), but also ignore the material conditions in which these gameplay loops are produced.
 
-#corporate 
+#design #corporate 
