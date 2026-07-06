@@ -44,7 +44,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: all
+      defaultDateType: created
       priority:
         - frontmatter
         - git
