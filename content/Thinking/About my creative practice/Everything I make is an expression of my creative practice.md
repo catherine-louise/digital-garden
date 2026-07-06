@@ -1,6 +1,6 @@
 ---
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-07-05
 ---
 ## Trying and failing to be creative in public
 
@@ -36,6 +36,6 @@ What if I decided there isn't a difference between creative writing and hobbies 
 
 *To make sense of the world* brings my research practice into the conversation. (Maybe the paid research I do for my 9-5 less so, but that's a different story...) *To make the world I want to live in* gives me an aspiration to use my creativity to improve the world around me, even in very small ways—like how a set of handsewn napkins brings delight to my boyfriend and I when we sit down for breakfast. 
 
-And then this helps me understand why some projects are bigger than others, not because they are more "legitimate" or "serious" than others (a tendency I am fighting hard right now—the scold's voice in my head says, *do you think people won Pulitzer prizes sewing napkins?*) but because some projects are just trying to take on more. My [[A retro space opera|retro space opera]] is bigger and more time consuming than the napkins because the stakes are not just personal, the pieces of the world I am trying to make sense of are much bigger. 
+And then this helps me understand why some projects are bigger than others, not because they are more "legitimate" or "serious" than others (a tendency I am fighting hard right now—the scold's voice in my head says, *do you think people won Pulitzer prizes sewing napkins?*) but because some projects are just trying to take on more. My [[A space opera|retro space opera]] is bigger and more time consuming than the napkins because the stakes are not just personal, the pieces of the world I am trying to make sense of are much bigger. 
 
 #creative-process 
