@@ -1,3 +1,7 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
 ## Trying and failing to be creative in public
 
 This digital garden is not the first time I've experimented with *being creative in semi-public*, but it feels more aligned than anything else I've tried. 

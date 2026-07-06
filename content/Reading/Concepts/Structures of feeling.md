@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 Coined by [literary theorist Raymond Williams](https://ia803100.us.archive.org/6/items/KleinhansFilmTheory/5DOC-raymond_williamsfeeling.pdf) (thanks to this link for having some helpful excerpts)
 
 > The Long Revolution, 1961, Pelican Bks 1965 

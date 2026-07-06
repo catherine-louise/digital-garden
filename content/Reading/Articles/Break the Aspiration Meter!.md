@@ -1,3 +1,7 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
 [Zoe Hu, in NYRB 6/8/2025](https://www.nybooks.com/online/2025/06/08/break-the-aspiration-meter-the-sims/)
 
 

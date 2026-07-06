@@ -1,3 +1,7 @@
+---
+created: 2026-06-29
+updated: 2026-06-29
+---
 https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/
 
 By Miriam Posner

@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 From [[Space Settlements]] by Fred Scharmen, pp. 116-117:
 
 >A bubble of speculative value in what was once vacuum is made possible by the creation of new empty space where there once was a stock of planetary substance. 

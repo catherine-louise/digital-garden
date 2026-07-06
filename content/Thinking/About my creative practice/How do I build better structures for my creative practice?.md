@@ -1,3 +1,7 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
 Structures that 
 * hold space for my creative practice in all its forms
 * enable me to turn my ideas into real, made things

@@ -1,3 +1,7 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
 I sometimes worry that our society has lost the sense that *things were not always this way.* I don't mean that in a sense of, "things used to be better," or "things used to be worse," which are value judgments. I simply mean that they were different. The world was once a different place. We used to do things differently. People thought differently, and saw the world differently, and communicated differently. 
 
 There is always pat nostalgia (RIP Buzzfeed) to remind you that once phones were chunky and television only had three channels. But difference, true difference, is weird and strange. There is a book I read in graduate school called *The Woman Beneath the Skin* by Barbara Duden. Duden analyzes an 18th (17th? don't remember, not sure where the book is in my house right now to check) century doctor's notebook only to discover that the ailing women who came to this doctor described their body in ways so completely different than we do today. They saw their body as made up of *flows*, that their ailments were the result of flows being blocked or flows being misguided. How different from the model we have where the body is visualized as systems (the skeletal system, the muscular system). Fascinating! 

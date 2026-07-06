@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 
 Understanding *features* and thinking about digital experiences as chains of features that are created and developed in particular ways might help shed light on why digital experiences feel the way that they do. 
 

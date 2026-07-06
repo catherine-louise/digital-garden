@@ -1,3 +1,7 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+---
 
 Daniel Immerwahr, *How to Hide An Empire: A History of the Greater United States* (FSG, 2019)
 

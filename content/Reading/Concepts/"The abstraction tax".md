@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 Coined by Kristen Lowe: https://workbravely.substack.com/p/the-abstraction-tax
 
 Understanding "delegate tasks to AI" through analyzing the history of management (wish I'd thought of that connection myself)

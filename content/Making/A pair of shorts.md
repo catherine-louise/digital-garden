@@ -1,3 +1,7 @@
+---
+created: 2026-06-08
+updated: 2026-06-08
+---
 I learned to sew because I wanted to make pants for myself that fit. Every time I sew a pair of pants, a process that usually involves a large degree of frustration (for one thing, you have to make a test pair of pants first to dial in the fit, so that's actually two pairs of pants), I do so motivated almost entirely by the desire for the end result. I still hold that it is preferable to going to a shopping mall and searching for a pair of pants. 
 
 These shorts were no exception; the elastic waistband on the inside is a gnarly mess because I still struggle to attach waistbands and wrangle the elastic. But they fit nicely. The pattern is [Closet Core Sepia pants](https://closetcorepatterns.com/products/sepia-pants-shorts-pattern?variant=41619692421254) a favorite of mine, and the fabric was blue corduroy from [Lyrical Fabrics](https://lyricalfabrics.com/) which I ended up liking less than I thought I would when I bought it online.

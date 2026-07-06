@@ -1,3 +1,7 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+---
 Joe Mungo Reed, *Terrestrial History* (Norton, 2025)
 
 What a book! It made me cry!

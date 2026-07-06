@@ -1,3 +1,7 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
 https://www.youtube.com/watch?time_continue=1712&v=k1ldPKCcHTM&embeds_widget_referrer=https%3A%2F%2Fwww.are.na%2F&embeds_referring_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_referring_origin=https%3A%2F%2Fcdn.embedly.com&source_ve_path=MzY4NDIsMzY4NDIsMzY4NDIsMjg2NjY
 
 David Benqué uses divination studies and divination practice as a lens to look at AI. Not satisfied with just saying AI is "pseudo-rationality" because there is no rationality anywhere 

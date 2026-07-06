@@ -1,3 +1,7 @@
+---
+created: 2026-06-01
+updated: 2026-06-01
+---
 https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo
 By Émile P. Torres
 

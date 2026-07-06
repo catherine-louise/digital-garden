@@ -1,5 +1,7 @@
 ---
 title: welcome
+created: 2026-06-21
+updated: 2026-06-21
 ---
 
 Hello and welcome to my digital garden. 

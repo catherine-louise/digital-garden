@@ -1,3 +1,7 @@
+---
+created: 2026-07-05
+updated: 2026-07-05
+---
 Inspired by Cortney Cassidy's article, ["Can I Be an Artist Here?"](https://eyeondesign.aiga.org/can-i-be-an-artist-here/) I made my own zine comparing the way I feel as an artist who researches as part of a creative practice, and a corporate worker who performs research as a service for other people. 
 
 

@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 I grew up playing *The Sims* and *The Sims 2*, but *The Sims 4* is different than both. It comes covered in the fingerprints of corporate software development. 
 ## A world of features
 

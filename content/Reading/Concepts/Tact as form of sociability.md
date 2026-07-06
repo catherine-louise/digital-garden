@@ -1,3 +1,7 @@
+---
+created: 2026-06-07
+updated: 2026-06-07
+---
 https://aeon.co/essays/tact-is-most-important-when-living-with-others-gets-hard
 By Corina Stan
 

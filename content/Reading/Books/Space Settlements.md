@@ -2,6 +2,8 @@
 Author: Fred Scharmen
 Type:
   - Book
+created: 2026-06-04
+updated: 2026-06-04
 ---
 Fred Scharmen, *Space Settlements* (Columbia, 2019)
 

@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 Earlier I wrote that my creative practice was two fold: [[Everything I make is an expression of my creative practice|to make sense of the world on one hand, and to make the world I want to live in, on the other]]. But in my paid work as a corporate UX researcher, I doubt whether either of those things are happening.
 
 The goal of UX research is always = understand the customer (user) to inform decisions. 

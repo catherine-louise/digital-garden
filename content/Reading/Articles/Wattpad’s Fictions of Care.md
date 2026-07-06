@@ -1,3 +1,7 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+---
 [Sarah Brouillete, Post45, 07/2022](https://post45.org/2022/07/wattpads-fictions-of-care/)
 
 

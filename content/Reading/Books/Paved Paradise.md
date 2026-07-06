@@ -4,6 +4,8 @@ Type:
   - Book
 tags:
   - environment
+created: 2026-06-04
+updated: 2026-06-04
 ---
 Henry Grabar, *Paved Paradise: How Parking Explains the World* (Penguin, 2024)
 

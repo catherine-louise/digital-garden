@@ -1,3 +1,7 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+---
 Keith Sawyer, *Learning to See: Inside the World's Leading Art and Design Schools* (MIT Press, 2025)
 
 Analysis of the creative process that working and teaching artists (art professors at top art schools) teach their students and use in their own process - that is successful at generating art.

@@ -1,3 +1,7 @@
+---
+created: 2026-06-22
+updated: 2026-06-22
+---
 Lately at my job my team has been exploring a product innovation framework called [jobs-to-be-done](https://online.hbs.edu/blog/post/jobs-to-be-done-examples) and I have been turning over its benefits and limitations. 
 
 ## Initial thoughts

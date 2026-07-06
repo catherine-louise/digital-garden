@@ -1,3 +1,7 @@
+---
+created: 2026-06-21
+updated: 2026-06-21
+---
 Coined by Madeleine Clare Elish
 [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction," Engaging Science, Technology, and Society 5 (2019), 40-60)](https://estsjournal.org/index.php/ests/article/view/260/177)
 

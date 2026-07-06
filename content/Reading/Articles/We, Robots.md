@@ -1,3 +1,7 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+---
 Kate Epstein, “We, Robots.” _Persuasion,_ May 7, 2025. https://www.persuasion.community/p/we-robots?selection=ecf22b9c-1042-40e1-bd4f-23b30ce9d347 
 
 Specifically about the use of AI in the college classroom, its effect on the teaching of the humanities, and AI as part of a long process of devaluing the liberal arts:

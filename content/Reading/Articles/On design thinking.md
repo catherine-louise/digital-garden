@@ -1,3 +1,7 @@
+---
+created: 2026-06-22
+updated: 2026-06-22
+---
 Maggie Gram, *n+1*
 https://www.nplusonemag.com/issue-35/reviews/on-design-thinking/
 

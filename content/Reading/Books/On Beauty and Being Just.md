@@ -4,6 +4,8 @@ Type:
   - Book
 tags:
   - philosophies-of-life
+created: 2026-06-02
+updated: 2026-06-02
 ---
 **Reading notes: On Beauty and Being Just (part 1)**
 

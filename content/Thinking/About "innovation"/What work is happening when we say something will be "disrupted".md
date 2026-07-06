@@ -1,3 +1,7 @@
+---
+created: 2026-06-22
+updated: 2026-06-22
+---
 [[Extinction-Level Capitalism|Matthew Butterick]] notes: 
 
 > Marx’s obser­va­tion has a subtler impli­ca­tion too. **New tech­nology often holds itself out as the starting point of a narra­tive: _from now on, every­thing is different_. When we consider the tech­nology alone, that narra­tive domi­nates. But when we zoom out and consider the histor­ical context, the new tech­nology becomes the current endpoint of a much longer polit­ical narra­tive.**
